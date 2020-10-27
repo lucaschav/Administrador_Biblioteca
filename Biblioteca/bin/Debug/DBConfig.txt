@@ -1,0 +1,4 @@
+localhost
+biblioteca
+root
+amnesia321
